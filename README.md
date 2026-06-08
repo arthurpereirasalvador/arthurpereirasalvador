@@ -24,7 +24,6 @@ Aqui no meu perfil você encontra alguns exercícios/trabalhos que já realizei 
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Java)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=CSS)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
