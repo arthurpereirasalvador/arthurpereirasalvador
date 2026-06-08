@@ -11,7 +11,7 @@ Aqui no meu perfil você encontra alguns exercícios/trabalhos que já realizei 
 
 ## 🌐 Contato
 
-  e-mail: arthursalvador1705@gmail.com
+  e-mail: arthursalvador177@gmail.com
 
 ---
 
